@@ -7,4 +7,4 @@ El "Sistema de Gestión de Cursos de Robótica para Escuelas" es una plataforma 
 ### Diagrama ER:
 El diagrama de entidad-relación (ER) del proyecto podría incluir entidades como Usuarios, Cursos, Grupos y Kits de Robótica, junto con las relaciones entre ellas, como la pertenencia de los usuarios a grupos, la asignación de cursos a grupos y la asociación de cursos con kits de robótica. Este diagrama proporcionaría una representación visual de la estructura de la base de datos del sistema.
 
-![DIAGRAMA ER DE ESTE PROYECTO](https://ibb.co/tpDzpPt)
+[![Diagram-drawio-3.png](https://i.postimg.cc/sDk6dBvZ/Untitled-Diagram-drawio-3.png)](https://postimg.cc/w7kcDj56)
