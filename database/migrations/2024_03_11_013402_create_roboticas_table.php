@@ -13,6 +13,7 @@ return new class extends Migration
     {
         Schema::create('roboticas', function (Blueprint $table) {
             $table->id('id_kit');
+            //NewcOMMENT//
             $table->string('nombre_kit');
             $table->timestamps();
         });
